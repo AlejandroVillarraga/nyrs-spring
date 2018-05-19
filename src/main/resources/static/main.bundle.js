@@ -245,7 +245,7 @@ AppModule = __decorate([
             {
                 provide: __WEBPACK_IMPORTED_MODULE_9__common_config_initial_config__["a" /* INITIAL_CONFIG */],
                 useValue: {
-                    apiURL: 'http://localhost:8080'
+                    apiURL: 'https://nyrs-server.herokuapp.com/'
                 }
             },
             __WEBPACK_IMPORTED_MODULE_8__common_config_app_configuration_service__["a" /* AppConfiguration */],
